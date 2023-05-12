@@ -1,0 +1,114 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+}
+.container{
+    margin: 0 auto;
+}
+.picture_div{
+    display: inline-block;
+    position: absolute;
+}
+.EF_logo{
+    margin-left: 180px;
+}
+.city_picture{
+    width: 645px;
+}
+.info_div{
+    width: 625px;
+    height: 750px;
+    background-color:white;
+    display: inline-block;
+    border-radius: 20px;
+    position: relative;
+    margin-left: 600px;
+}
+.Username{
+    font-size: 20px;
+    color: #003D61;
+    padding-left: 80px;
+    font-family: 'Poppins', sans-serif;
+}
+.text_input{
+    border-right: none;
+    border-top: none;
+    width: 420px;
+    height: 35px;
+    margin-left: 80px;
+    border-left-color: #003D61;
+    border-bottom-color: #003D61;
+    margin-top: 10px;
+    padding-left: 30px;
+    color: #C4C4C4;
+}
+.password{
+    font-size: 20px;
+    color: #94B7CD;
+    padding-left: 80px;
+    padding-top: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+.password_input{
+    border-right: none;
+    border-top: none;
+    width: 420px;
+    height: 35px;
+    margin-left: 80px;
+    margin-top: 10px;
+    border-left-color: #94B7CD;
+    border-bottom-color:#94B7CD;
+    padding-left: 30px;
+    color:#94B7CD;
+}
+.email{
+    font-size: 20px;
+    color: #003D61;
+    padding-left: 80px;
+    padding-top: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+.email_input{
+    border-right: none;
+    border-top: none;
+    width: 420px;
+    height: 35px;
+    margin-left: 80px;
+    margin-top: 10px;
+    padding-left: 30px;
+    color: #C4C4C4; 
+}
+.button{
+    padding-top: 50px;
+    padding-left: 75px;
+}
+.info{
+    padding-left: 150px;
+    font-family: 'Inter', sans-serif;
+    color: #003D61;
+    
+}
+.login{
+    padding-left: 200px;
+    font-family: 'Inter', sans-serif;
+    color: #003D61;
+}
+.google_icon{
+    padding-top: 20px;
+    padding-left: 180px;
+}
+.apple_icon{
+    padding-top: 20px;
+    padding-left: 50px;
+}
+.post_icon{
+    padding-left: 50px;
+}
+.link{
+    color: #ED2980;
+    font-family: 'Inter', sans-serif;
+}
