@@ -112,3 +112,13 @@ body{
     color: #ED2980;
     font-family: 'Inter', sans-serif;
 }
+@media (max-width: 1024px){
+    .picture_div{
+        display: block;
+    }
+    .info_div{
+        width: 300px;
+        height: 300px;
+        display: block
+    }
+}
